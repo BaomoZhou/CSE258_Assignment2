@@ -1,2 +1,2 @@
-# CSE258_Assignment2-
+# CSE258_Assignment2
 Recommending System
